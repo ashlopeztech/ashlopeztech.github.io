@@ -2,7 +2,7 @@ if (annyang) {
   // Let's define a command.
   var commands = {
     'hello': function(){ 
-      alert('HEY GURL HE-EY'); 
+      alert('hello world!'); 
     }
     
     
