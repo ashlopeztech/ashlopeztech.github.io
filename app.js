@@ -3,8 +3,8 @@ if (annyang) {
   // Let's define a command.
   var commands = {
     'maybe': function() { alert('HEY GURL HE-EY!'); }
-    //'mirror mirror on the wall': function() { alert('taste my forbiddin fruit'); }
-  };
+    'hello': function() { alert('HEY GURL HE-EY!'); }
+   
   // Add our commands to annyang
   annyang.addCommands(commands);
 
