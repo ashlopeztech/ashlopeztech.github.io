@@ -5,7 +5,7 @@ if (annyang) {
       alert('Hello world!'); 
     }
     
-    'song': function () {
+    'other': function(){
       alert('to you to everything i kmew');
       
     }
