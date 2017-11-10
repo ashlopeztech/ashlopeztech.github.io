@@ -4,7 +4,8 @@ if (annyang) {
     'hello': function(){ 
       alert('Hello world!'); 
     }
-    'show me cute kittens ': function () {
+    
+    'goodbye ': function () {
       alert(' you rang?');
       
     }
