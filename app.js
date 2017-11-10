@@ -4,7 +4,7 @@ if (annyang) {
   var commands = {
     
     'hello': function() { alert('HEY GURL HE-EY!'); }
-    'maybe': function() { alert('HEY GURL HE-EY!'); }
+    
 }
    
   // Add our commands to annyang
