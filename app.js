@@ -5,8 +5,8 @@ if (annyang) {
       alert('Hello world!'); 
     }
     
-    'goodbye ': function () {
-      alert(' you rang?');
+    'goodbye': function () {
+      alert(' to you to everything i kmew');
       
     }
 
