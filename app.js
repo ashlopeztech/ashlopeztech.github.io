@@ -4,7 +4,7 @@ if (annyang) {
     'hello': function(){ 
       alert('Hello world!'); 
     }
-    'mirror mirror on the wall ': function () {
+    'show me cute kittens ': function () {
       alert(' you rang?');
       
     }
