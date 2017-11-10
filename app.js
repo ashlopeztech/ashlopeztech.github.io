@@ -4,8 +4,8 @@ if (annyang) {
     'hello': function(){ 
       alert('Hello world!'); 
     }
-    'mirror mirror on the wall who is the greatest queen of all?': function () {
-      alert("Well me of course!");
+    'mirror mirror on the wall ': function () {
+      alert(' you rang?');
       
     }
 
